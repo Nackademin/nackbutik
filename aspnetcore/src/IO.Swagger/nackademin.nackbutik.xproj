@@ -6,7 +6,7 @@
     </PropertyGroup>
     <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
     <PropertyGroup Label="Globals">
-        <ProjectGuid>{ACE88DB1-7275-4C78-889F-0505A9ECA1FA}</ProjectGuid>
+        <ProjectGuid>{C077CF96-630C-4F59-9678-8947DECB0D97}</ProjectGuid>
         <RootNamespace>nackademin.nackbutik</RootNamespace>
         <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
         <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
